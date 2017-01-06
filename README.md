@@ -34,6 +34,7 @@ It includes  two parts :
    *Note :  weatherUIClient.htm will have http://localhost:8080 at client calls . In case you are deploying war in different machine and running html 
    elsewhere , we need to change IP and port respectively in html files 
    
+   *Response May take some time because of server side third party calls.
    
    ##Test Data Example
    City : Delhi 
