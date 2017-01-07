@@ -24,6 +24,7 @@ It includes  two parts :
          
          Same process for (https://darksky.net/dev/)
          
+         Currently i have provided tokens in application.properties.
          
          
   3)Steps for running application :
